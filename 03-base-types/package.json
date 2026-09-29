@@ -1,0 +1,14 @@
+{
+  "name": "03-base-types",
+  "version": "1.0.0",
+  "description": "Primitive values:\r A primitive (or base) is a basic value tht is not object.\r Javascript has the following base values such as:\r 1. number\r 2. boolean\r 3. string\r 4. bigint\r 5. symbol\r 6. null\r 7. undefined",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
